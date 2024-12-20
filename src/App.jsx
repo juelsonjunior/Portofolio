@@ -40,9 +40,7 @@ function App() {
                     Contacto
                 </h3>
                 <p className="text-center my-5">
-                    Se entere em alguma coisa que viu deixa uma mensagem nas
-                    redes abaixo para trocarmos uma ideia e quem sabe eu resolva
-                    um dos seus prolemas..
+                    Gostou de alguma coisa que viu ou simplesmente quer trocar uma ideia use os links abaixo e estarei disponível para te atender.
                 </p>
 
                 <div className="flex items-center justify-center flex-col md:flex-row gap-5 ">

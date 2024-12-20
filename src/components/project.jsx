@@ -44,7 +44,7 @@ function Project() {
                     Projectos
                 </h3>
                 <p className="text-center my-5">
-                    Alguns projectos que desenvolvi para treinar as tecnologios
+                    Alguns projectos que desenvolvi para treinar as tecnologias
                     que venho estudando ao longo dos mêses.
                 </p>
             </div>
