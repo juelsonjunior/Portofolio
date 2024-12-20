@@ -9,13 +9,13 @@ function Project() {
                 id: 1,
                 img: '../../blog-pessoal.png',
                 name: 'Blog Pessoal',
-                description: "Desenvolvi um Blog pessoal usando recursos como jwt para autenticação Mongo db para banco de dados prima ORM para manipular o banco de dados e muitas outras ferramentas",
+                description: "Desenvolvi um Blog pessoal usando recursos como JWT para autenticação Mongo db para banco de dados prima ORM para manipular o banco de dados e muitas outras ferramentas",
             },
             {
                 id: 2,
                 img: '../../gerador.png',
                 name: 'Gerador de senhas',
-                description: "Criei inicialmente um função simples para gerar um secret para o jwt mais achei qunado me dei conta esta fora do project que precisava usar o secret e estava fazendo esse gerador de senhas personalizadas",
+                description: "Criei inicialmente um função simples para gerar um secret para o JWT mais achei qunado me dei conta esta fora do project que precisava usar o secret e estava fazendo esse gerador de senhas personalizadas",
             },
             {
                 id: 3,
@@ -27,7 +27,7 @@ function Project() {
                 id: 4,
                 img: '../../todo-list.png',
                 name: 'Todo-list JS puro',
-                description: "Todo-list do zero só usando javaScript sem nenhuma lib ",
+                description: "Todo-list do zero só usando javaScript puro sem nenhuma Lib ",
             },
         ];
 
