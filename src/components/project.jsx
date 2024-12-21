@@ -9,13 +9,13 @@ function Project() {
                 id: 1,
                 img: '../../blog-pessoal.png',
                 name: 'Blog Pessoal',
-                description: "Desenvolvi um Blog pessoal usando recursos como JWT para autenticação Mongo db para banco de dados prima ORM para manipular o banco de dados e muitas outras ferramentas",
+                description: "Desenvolvi um Blog pessoal usando recursos como JWT para autenticação Mongo db para banco de dados prisma ORM para manipular o banco de dados e muitas outras ferramentas",
             },
             {
                 id: 2,
                 img: '../../gerador.png',
                 name: 'Gerador de senhas',
-                description: "Criei inicialmente um função simples para gerar um secret para o JWT mais achei qunado me dei conta esta fora do project que precisava usar o secret e estava fazendo esse gerador de senhas personalizadas",
+                description: "Criei inicialmente um função simples para gerar um secret para o JWT mais achei que podia fazer algo mais então criei um gerador de senhas personalizadas",
             },
             {
                 id: 3,
