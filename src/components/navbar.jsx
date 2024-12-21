@@ -13,7 +13,7 @@ function Navbar() {
                                 to="home"
                                 spy={true}
                                 smooth={true}
-                                offset={50}
+                                offset={-100}
                                 duration={500}
                             >
                                 Home
