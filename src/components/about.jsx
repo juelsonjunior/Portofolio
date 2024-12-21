@@ -10,7 +10,7 @@ function About() {
                 <p className="my-5 text-justify">
                     Sou estudante de Desenvolvimento FullStack com uma certa inclinação para o back-end já criei e consumi algumas APIs e sigo estudando, por gostar de trabalhar com a parte visual das coisas optei por estudar o melhor dos dois mundos já faz alguns anos que estudo programação mais de forma firme e focada faz uns mêses e nesse periodo de tempo pode estudar tecnologias como <strong>JavaScript, TypeScript, Node Js, React JS</strong> e alguns framework e libs e pode conhecer muita gente legal estudando programação, se estiver interessado em desenvolver alguma coisa comigo é só chamar no privado.
                 </p>
-                <div className="flex flex-col gap-5 text-lg">
+                <div className="flex flex-col gap-8 text-lg">
                     <div className="flex gap-10">
                         <span className="font-bold">Nome:</span>
                         <span className="">Juelson Junior</span>
@@ -28,11 +28,6 @@ function About() {
                         <span className="">(+244) 949 489 473</span>
                     </div>
                 </div>
-                <button className="mt-6 bg-slate-900 py-4 px-14 rounded-full text-green-500 uppercase">
-                    <a href="https://drive.google.com/file/d/1nB-XpIaL0sED7NfSZ1ttQgMTGc5y4MLB/view?usp=drive_link" target="_blank">
-                        Baixar CV
-                    </a>
-                </button>
             </div>
         </>
     );
